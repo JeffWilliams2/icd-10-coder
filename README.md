@@ -2,7 +2,7 @@
 
 > Explainable medical coding with RAG. Every suggested code links back to the source text that justifies it.
 
-**Status:** Planned — Phase 4 of build plan
+**Status:** Planned: Phase 4 of build plan
 
 Open-source engine for explainable ICD-10 medical coding. Demonstrates RAG over the ICD-10-CM code set with constrained generation and source-span citation.
 
